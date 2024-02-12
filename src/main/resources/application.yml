@@ -4,7 +4,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
-    password: 137193
+    password: ***
     url: jdbc:mysql://localhost:3306/seterina
   session:
     timeout: 86400
