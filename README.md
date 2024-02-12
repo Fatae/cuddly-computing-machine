@@ -1,2 +1,1 @@
-# cuddly-computing-machine
-seterina用户中心
+# seterina用户中心
