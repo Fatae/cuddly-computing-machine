@@ -21,5 +21,6 @@
 3. 用户校验（仅星球用户）
 
 ## 项目架构图
-yuque_diagram
+![yuque_diagram](https://github.com/Fatae/seterina-user-center/assets/96872606/f79b29e3-0dc1-4fed-b44b-1df77137f7f9)
+
 
